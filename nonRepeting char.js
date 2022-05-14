@@ -1,5 +1,6 @@
 
-// // Non repeting chat
+// 387. First Unique Character in a String
+
 let s = "aabbac";
 let result = nonRepetingChar(s);
 console.log(result);
